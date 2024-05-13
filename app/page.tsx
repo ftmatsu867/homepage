@@ -41,7 +41,7 @@ export default function Home() {
           </div>
         </div>
         <div>
-          <Image src="/futyu.jpg" width={300} height={300} alt="" />
+          <Image src="/futyu.png" width={300} height={300} alt="" />
         </div>
       </section>
     </main>
