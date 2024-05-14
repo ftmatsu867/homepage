@@ -17,7 +17,7 @@ export default function Home() {
         <div className="flex-grow mr-12">
           <div className="flex border-b-2 py-2">
             <span className="w-40">所在地</span>
-            <span>〒939-2721 富山県富山市板倉256-1</span>
+            <span>〒939-2721 富山県富山市婦中町板倉256-1</span>
           </div>
           <div className="flex border-b-2 py-2">
             <span className="w-40">TEL</span>
